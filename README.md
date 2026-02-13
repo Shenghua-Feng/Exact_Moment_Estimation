@@ -50,7 +50,7 @@ The paper’s benchmarks correspond to the benchmark scripts in `benchmarks/` (n
 
 2. If you want to reproduce a specific benchmark, run `python -m benchmarks.consensus` from the artifact root.
 
-**Estimated time:** varies widely by example and machine. Each benchmark typically runs in **seconds to minutes**. The full suite can take **several minutes or longer**, but is usually less than 40 minutes.
+**Estimated time:** varies widely by example and machine. Each benchmark typically runs in **seconds to minutes**. The full suite can take **several minutes or longer**, but is usually less than 30 minutes.
 
 **If you have limited resources:** run only the smoke test or a single benchmark (e.g., `benchmarks/oscillator.py`) to validate functionality.
 
